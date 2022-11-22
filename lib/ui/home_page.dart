@@ -24,10 +24,10 @@ class _NewsHomeState extends State<NewsHome> {
   Future<Map> apicall()async{
     http.Response response;
     if(_search == ""){
-      response = await http.get(Uri.parse("https://content.guardianapis.com/search?api-key=cd31c471-ad56-4c62-8dc4-5de177d57a5a&page=$currentPage"));
+      response = await http.get(Uri.parse("https://content.guardianapis.com/search?api-key=test&page=$currentPage"));
     }
     else{
-      response = await http.get(Uri.parse("https://content.guardianapis.com/search?api-key=cd31c471-ad56-4c62-8dc4-5de177d57a5a&q=$_search&page=$currentPage"));
+      response = await http.get(Uri.parse("https://content.guardianapis.com/search?api-key=test&q=$_search&page=$currentPage"));
     }
 
     return jsonDecode(response.body);
