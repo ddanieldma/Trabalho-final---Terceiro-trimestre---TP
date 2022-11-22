@@ -2,7 +2,7 @@
 ### Grupo: Daniel de Miranda Almeida e Jhulya Cristina Silva Gonçalves
 
 ## Sobre o aplicativo
-O aplicativo Info News é um aplicativo que te da os links para as principais noticias do jornal The Guardian, podendo ser tanto as notícias mais recentes no geral, quanto as notícias mais recentes de um determinado tema. Devido a limitações do projeto, o aplicativo funciona apenas em inglês.
+O aplicativo Info News é um aplicativo que da ao usuário que exibe as manchetes das principais noticias do jornal The Guardian podendo ser tanto as notícias mais recentes no geral, quanto as notícias mais recentes de um determinado tema. Quando o usuário toca em uma notícia, o aplicativo exibe de qual área aquela notícia se trata e o link para poder acessá-la no site do jornal. Devido a limitações do projeto, o aplicativo funciona apenas em inglês.
 As notícias (quando no modo de pesquisa de um tema) são carregadas por página, 10 em cada página. Assim, se o usuário quiser ver mais notícias, deve descer até o fim da tela e apertar o botão de passar para a próxima página.
 
 ## Limitações
