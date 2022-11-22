@@ -2,11 +2,11 @@
 ### Grupo: Daniel de Miranda Almeida e Jhulya Cristina Silva Gonçalves
 
 ## Sobre o aplicativo
-O aplicativo Info News é um aplicativo que da ao usuário que exibe as manchetes das principais noticias do jornal The Guardian podendo ser tanto as notícias mais recentes no geral, quanto as notícias mais recentes de um determinado tema. Quando o usuário toca em uma notícia, o aplicativo exibe de qual área aquela notícia se trata e o link para poder acessá-la no site do jornal. Devido a limitações do projeto, o aplicativo funciona apenas em inglês.
-As notícias (quando no modo de pesquisa de um tema) são carregadas por página, 10 em cada página. Assim, se o usuário quiser ver mais notícias, deve descer até o fim da tela e apertar o botão de passar para a próxima página.
+O aplicativo Info News é um aplicativo que exibe as manchetes das noticias do jornal The Guardian, podendo ser tanto as mais recentes no geral, quanto as mais recentes de um determinado tema, à escolha do usuário. Quando este toca em uma notícia, o aplicativo exibe de qual área aquela notícia se trata e o link para poder acessá-la no site do jornal, além da manchete com letras maiores. Devido a limitações do projeto, o aplicativo funciona apenas em inglês.
+As notícias são carregadas por página, 10 em cada página. E, quando no modo de pesquisa de um tema, se o usuário quiser ver mais notícias, deve descer até o fim da tela e apertar o botão de passar para a próxima página.
 
 ## Limitações
-O aplicativo não consegue mostrar a notícia em si(a API disponibliza apenas a url da notícia, não a notícia em si) apenas o link para a mesma no site do jornal; das notícias iniciais, são mostradas apenas as 10 primeiras, e não é possível carregar mais; caracteres especiais das manchetes, ao serem carregados, acabam ficando estranhos.
+O aplicativo não consegue mostrar a notícia em si(a API disponibliza somente a url da notícia, não a notícia em si) apenas o link para a mesma no site do jornal; das notícias iniciais, são mostradas apenas as 10 primeiras, e não é possível carregar mais; caracteres especiais das manchetes, ao serem carregados, acabam ficando estranhos.
 
 ## Tela principal
 <p align="center">
@@ -26,4 +26,9 @@ O aplicativo não consegue mostrar a notícia em si(a API disponibliza apenas a 
 ## Nova página carregada
 <p align="center">
   <img src="https://github.com/Dannillouou/Trabalho-final---Terceiro-trimestre---TP/blob/main/imgs/Nova%20pagina.png">
+</p>
+
+## Pagina da noticia com link
+<p align="center">
+  <img src="https://github.com/Dannillouou/Trabalho-final---Terceiro-trimestre---TP/blob/main/imgs/Noticia.png">
 </p>
