@@ -6,7 +6,7 @@ O aplicativo Info News é um aplicativo que exibe as manchetes das noticias do j
 As notícias são carregadas por página, 10 em cada página. E, quando no modo de pesquisa de um tema, se o usuário quiser ver mais notícias, deve descer até o fim da tela e apertar o botão de passar para a próxima página.
 
 ## Limitações
-O aplicativo não consegue mostrar a notícia em si(a API disponibliza somente a url da notícia, não a notícia em si) apenas o link para a mesma no site do jornal; das notícias iniciais, são mostradas apenas as 10 primeiras, e não é possível carregar mais; caracteres especiais das manchetes, ao serem carregados, acabam ficando estranhos.
+Devido ao curto prazo para desenvolvimento do aplicativo, ele apresenta algumas limitações. O aplicativo não consegue mostrar a notícia em si, apenas o link para a mesma no site do jornal; das notícias iniciais, são mostradas apenas as 10 primeiras, e não é possível carregar mais; caracteres especiais das manchetes, ao serem carregados, acabam ficando estranhos.
 
 ## Tela principal
 <p align="center">
